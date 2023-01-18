@@ -1,6 +1,6 @@
 {
-    "name": "myfoundryassets",
-    "title": "MyFoundryAssets",
+    "name": "my-foundry-assets",
+    "title": "my-foundry-assets",
     "description": "Assets for mapmaking",
     "author": "Kakeman89",
     "version": "[version]",
@@ -16,7 +16,7 @@
             "entity": "Item"
         }
     ],
-	"url": "https://github.com/unrealkakeman89/MyFoundryAssets",
-	"manifest": "https://github.com/unrealkakeman89/MyFoundryAssets/releases/latest/download/module.json",
-	"download": "https://github.com/unrealkakeman89/MyFoundryAssets/releases/latest/download/MyFoundryAssets.zip"
+	"url": "https://github.com/unrealkakeman89/my-foundry-assets",
+	"manifest": "https://github.com/unrealkakeman89/my-foundry-assets/releases/latest/download/module.json",
+	"download": "https://github.com/unrealkakeman89/my-foundry-assets/releases/latest/download/my-foundry-assets.zip"
  }
