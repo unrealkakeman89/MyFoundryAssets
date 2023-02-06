@@ -16,6 +16,6 @@
         }
     ],
 	"url": "https://github.com/unrealkakeman89/my-foundry-assets",
-	"manifest": "https://github.com/unrealkakeman89/my-foundry-assets/releases/latest/download/module.json",
+	"manifest": "https://raw.githubusercontent.com/unrealkakeman89/my-foundry-assets/main/module.json",
 	"download": "https://github.com/unrealkakeman89/my-foundry-assets/releases/latest/download/my-foundry-assets.zip"
  }
