@@ -1,5 +1,5 @@
 {
-    "name": "my-foundry-assets",
+    "id": "my-foundry-assets",
     "title": "my-foundry-assets",
     "description": "Assets for mapmaking",
     "author": "Kakeman89",
@@ -12,8 +12,7 @@
             "label": "Effects",
             "system": "sw5e",
             "path": "./packs/effects.db",
-            "module": "myfoundryassets",
-            "entity": "Item"
+            "type": "Item"
         }
     ],
 	"url": "https://github.com/unrealkakeman89/my-foundry-assets",
