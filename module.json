@@ -3,15 +3,16 @@
     "title": "my-foundry-assets",
     "description": "Assets for mapmaking",
     "author": "Kakeman89",
-    "version": "[version]",
-    "minimumCoreVersion": "0.5.0",
-    "compatibleCoreVersion": "10",
+    "version": "1.0",
+    "Compatibility": {
+	    "minimum": "0.5.0",
+	    "verified": "10"
+    },    
     "packs": [
         {
-            "name": "effects",
-            "label": "Effects",
-            "system": "sw5e",
-            "path": "./packs/effects.db",
+            "name": "props",
+            "label": "Props",
+            "path": "/packs/effects.db",
             "type": "Item"
         }
     ],
