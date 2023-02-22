@@ -3,7 +3,7 @@
     "title": "my-foundry-assets",
     "description": "Assets for mapmaking",
     "author": "Kakeman89",
-    "version": "v1.0.3",
+    "version": "v1.0.4",
     "Compatibility": {
 	    "minimum": "0.5.0",
 	    "verified": "10"
@@ -12,12 +12,12 @@
         {
             "name": "props",
             "label": "Props",
-	    "system": "sw5e"
-            "path": "/packs/effects.db",
+	        "system": "sw5e",
+            "path": "/packs/props.db",
             "type": "Item"
         }
     ],
 	"url": "https://github.com/unrealkakeman89/my-foundry-assets",
-	"manifest": "https://raw.githubusercontent.com/unrealkakeman89/my-foundry-assets/main/module.json",
+	"manifest": "https://github.com/unrealkakeman89/my-foundry-assets/blob/v1.0.3/module.json",
 	"download": "https://github.com/unrealkakeman89/my-foundry-assets/releases/latest/download/my-foundry-assets.zip"
  }
