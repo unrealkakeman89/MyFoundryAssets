@@ -12,6 +12,7 @@
         {
             "name": "props",
             "label": "Props",
+	    "system": "sw5e"
             "path": "/packs/effects.db",
             "type": "Item"
         }
